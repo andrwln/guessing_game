@@ -1,0 +1,49 @@
+h1 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  margin: 5% 0 10%;
+  font-size: 4em;
+  font-weight: normal;
+  text-align: center;
+  color: #990000;
+}
+
+#wrapper {
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align:center;
+}
+
+#remaining-guesses span {
+  color: #990000;
+  font-weight: 900;
+}
+
+#remaining-guesses {
+  font-size: 2em;
+}
+
+input {
+  font-size:.75em;
+}
+
+form {
+  font-size: 1.5em;
+}
+
+button {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: bold;
+  font-size: 85%;
+}
+
+footer {
+  padding-top: 15%;
+}
+
+#reset {
+  display: none;
+  font-size: 1.5em;
+}
+
+#over {
+  display: none;
+}
